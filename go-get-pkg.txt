@@ -1,0 +1,4 @@
+-tags zmq_3_x github.com/alecthomas/gozmq
+github.com/abhishekkr/gol/golzmq
+github.com/abhishekkr/gol/gollog
+github.com/abhishekkr/gol/golbin

@@ -20,3 +20,13 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+*.swn
+*.swo
+*.swp
+*~
+temp/*
+.goenv
+
+# binary
+axe_n0de_zmq
