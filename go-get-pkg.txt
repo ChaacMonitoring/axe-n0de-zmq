@@ -2,3 +2,5 @@
 github.com/abhishekkr/gol/golzmq
 github.com/abhishekkr/gol/gollog
 github.com/abhishekkr/gol/golbin
+github.com/ChaacMonitoring/axe-n0de-zmq/chaac_axe
+github.com/ChaacMonitoring/axe-n0de-zmq/chaac_axe/checks
